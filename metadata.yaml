@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1188
     wikipedia: http://en.wikipedia.org/wiki/Bliss_Perry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39716#Little-MasterpiecesGreat-Stone-F
 gutenberg_issued: '2012-05-17'
 gutenberg_type: Text
 identifiers:
