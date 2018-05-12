@@ -1,0 +1,38 @@
+_repo: Little-MasterpiecesGreat-Stone-F_39716
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hawthorne, Nathaniel
+    birthdate: 1804
+    deathdate: 1864
+    gutenberg_agent_id: '28'
+    url: http://www.gutenberg.org/2009/agents/28
+    wikipedia: http://en.wikipedia.org/wiki/Nathaniel_Hawthorne
+  editor:
+    agent_name: Perry, Bliss
+    birthdate: 1860
+    deathdate: 1954
+    gutenberg_agent_id: '1188'
+    url: http://www.gutenberg.org/2009/agents/1188
+    wikipedia: http://en.wikipedia.org/wiki/Bliss_Perry
+description: ''
+gutenberg_issued: '2012-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Little Masterpieces
+subjects:
+- !lcsh 'American fiction -- 19th century'
+- !lcc 'PS'
+- !lcsh 'Short stories, American'
+tableOfContents: Dr. Heidegger's experiment -- The birthmark -- Ethan Brand -- Wakefield
+  -- The great stone face -- The gray champion.
+title: Nathaniel Hawthorne
+url: http://www.gutenberg.org/ebooks/39716
